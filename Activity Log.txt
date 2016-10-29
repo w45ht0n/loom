@@ -1,0 +1,94 @@
+***************************************************************************************************
+###################
+Week: 3/10/2016
+###################
+
+Notes:
+	Decided on Loom as project
+	Did some preliminary research into looms
+	Began project proposal form
+
+Research:
+
+	PICTURE OF LOOM: https://s-media-cache-ak0.pinimg.com/564x/63/fe/30/63fe30b34c69c1e4379f74c512aecb01.jpg
+	 - /pictures/parts.jpg
+	 - Helpful, labled loom with part names
+
+	VIDEO OF LEGO LOOM: https://www.youtube.com/watch?v=IPIJsdvDjsc
+	 - Interested by shuttle input technique and beater
+	 - Looks much more reliable than flying shuttle
+	  - could have many of these shuttles each with one thread?
+	  - could have way of selecting one of the threads from the shutle?
+	 - BUT, would tripple machine width... should be ok
+	 - Bit small, cannot select colours, can only plain weave
+
+	BLOG ON AUTOMATED LOOM: http://thecreatorsproject.vice.com/en_uk/blog/digital-loom-open-source-desktop-fabric-printer
+	 - Interested by method of lifting up warp threads
+	 - No automated shuttle
+
+
+***************************************************************************************************
+###################
+Week: 10/10/2016
+###################
+
+Notes:
+	Continued, and submitted project proposal form
+
+Research:
+
+***************************************************************************************************
+###################
+Week: 17/10/2016
+###################
+
+Notes:
+	Researched into mechanism and possible techniques for lifting warp threads
+	Drew designs for many different ways of doing this
+	 - push up with trap door (lock the trap door??, complicated)
+	 - pull/push needle out of way (complicated, but how normally done...)
+	 - motors winch it up (large but simple)
+	 - cam system push up (two wide)
+
+Research:
+ 	WEBSITE ON JACQUARD LOOMS: http://www.woolgatherers.com/JacquardOperation.htm
+	 - talks about why to make a JACQUARD loom not a dobby one
+	 - discusses picture design
+	 - other tabs on site are good
+
+	PDF ON MECHANISM: https://www.cs.arizona.edu/patterns/weaving/books/pea_jacq_1.pdf
+	 - very complicated and details parts of old loom
+
+
+***************************************************************************************************
+###################
+Week: 24/10/2016
+###################
+
+Notes:
+	Drew simple designs for wood work (notebook)
+	Drew mechanisms for moving shuttle and beater (like in lego video above) (notebook)
+	Still unsure about how to do cloth and warp rolers (another stepper motor??) (rachet??)
+	created sample paterns (/patterns/fiat_lux.jpg && /paterns/me.jpg) and happy with 50 warp threads ( will use thick material)
+	Downloaded AutoCad from AutoDesk and learnt how to use it 
+	began to design loom on AutodCad
+	thought about how to create patterns (bitmap and bit of software)
+
+Research:
+
+	STEPPER MOTORS INFO: https://learn.adafruit.com/all-about-stepper-motors/what-is-a-stepper-motor
+	 - need steppers so that motor resists turning
+
+	STEPPER MOTOR BUY: http://www.dhgate.com/product/10pcs-lot-new-and-original-fdk-2-phase-4/389061215.html#s2-5-1b;searl|0016242801
+
+	STEPPER MOTOR WIRING: http://www.piclist.com/techref/io/stepper/wires.htm
+	 - /pictures/4wire_stepper_motor.GIF
+
+	STEPPER MOTOR CONTORL: https://upload.wikimedia.org/wikipedia/commons/8/85/Drive.png
+	 - /pictures/stepper_motor_control.png
+
+	REED HOW TO:http://bobscrafts.com/bobstuff/reed.htm
+
+	AUTOCAD HOW TO: https://www.youtube.com/watch?v=XSRn0maJRfg
+	 - learn't how to use the software
+	 - describes how to make a wooden reed 
