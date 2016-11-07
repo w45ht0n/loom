@@ -57,7 +57,7 @@ Research:
 	 - other tabs on site are good
 
 	PDF ON MECHANISM: https://www.cs.arizona.edu/patterns/weaving/books/pea_jacq_1.pdf
-	 - very complicated and details parts of old loom
+	 - very complicated and details parts of old loom (OTT)
 
 
 ***************************************************************************************************
@@ -88,7 +88,45 @@ Research:
 	 - /pictures/stepper_motor_control.png
 
 	REED HOW TO:http://bobscrafts.com/bobstuff/reed.htm
+	 - describes how to make a wooden reed 
 
 	AUTOCAD HOW TO: https://www.youtube.com/watch?v=XSRn0maJRfg
 	 - learn't how to use the software
-	 - describes how to make a wooden reed 
+***************************************************************************************************
+###################
+Week: 31/10/2016
+###################
+
+Notes:
+	Not sure about how feasible moving the shuttle and beater with the current sysem is 
+
+	Methods for automated weft inserstion
+	 - Water and air jet (not even slightly feasible)
+	 - Projectile shuttle (not nice edges)
+	 - Flying Shuttle on wheels (looks best)
+
+	Considering how to control the 50 motors
+	 - ring counters to simplify 
+  	 - see drawing in notebook
+
+Research:
+
+	DEFINITIONS: https://en.wikipedia.org/wiki/Power_loom
+	 - Shedding, picking, battening
+
+	RACE ON FLYING SHUTTLE BEATER: http://www.camillavalleyfarm.com/pics/leclerc/wflying02.gif
+
+	RING COUNTER INFO: http://www.electronicshub.org/ring-counters-johnson-ring-counter/
+	 -  how they work etc.
+
+	CLOCK ENABLE DIAGRAM: http://i.stack.imgur.com/t1G3Q.gif
+	 - allow on-off for each motor (see diagram in notebook)
+***************************************************************************************************
+###################
+Week: 07/11/2016
+###################
+
+Notes:
+
+Research:
+
